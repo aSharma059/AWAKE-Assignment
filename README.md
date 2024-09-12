@@ -15,7 +15,7 @@ This project is a simple login web page built using HTML, CSS, and JavaScript. I
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/aSharma059/AWAKE-Assignment.git
 
 ## Live Demo
 
